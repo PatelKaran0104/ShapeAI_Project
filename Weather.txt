@@ -1,0 +1,5 @@
+    CURRENT     WEATHER     IN     NAVSARI     ||     23/6/2021     ||     07:58       
+
+Weather:Clouds       | Temp:29.94°C 
+Pressure:1006 hPa   | Humidity:72 %
+Wind Speed:6.59 m/s
